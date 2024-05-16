@@ -1,0 +1,32 @@
+.main-div{
+    background-color: rgb(235, 235, 235);
+    padding-top: 10px;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
+
+
+
+.form-div{
+    background-color: white;
+    margin-top: 40px;
+    padding: 20px;
+    
+}
+
+.form-submit-btn-div{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+}
+
+.error {
+    color: red;
+    font-size: 0.8rem;
+  }
+  
+  .error-field {
+    border: 1px solid red !important;
+  }
+  
